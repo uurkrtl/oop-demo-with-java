@@ -1,0 +1,14 @@
+
+n
+java:S1104"QMake brand a static final constant or non-public and provide accessors if needed.(ü“ÀÆ8ú‰ÏÎÕ1
+s
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ8­Ë­ÎÕ1
+s
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8­Ë­ÎÕ1
+
+java:S1104"]Make yearOfManufacture a static final constant or non-public and provide accessors if needed.(ŠÙ¶Äÿÿÿÿÿ8­Ë­ÎÕ1
+s
+java:S1104	"QMake speed a static final constant or non-public and provide accessors if needed.(¥ğ‡ğøÿÿÿÿ8­Ë­ÎÕ1
+G	java:S106"+Replace this use of System.out by a logger.(³é8µË­ÎÕ1
+I
+java:S1172",Remove this unused method parameter "speed".(˜à¶×8ÌéÏÕ1
